@@ -1,0 +1,61 @@
+body{
+    background-color: black;
+    background-repeat: no-repeat;    
+    margin-top: 5vh;
+    
+}
+
+#name{
+    text-align: center;
+    color:rgb(169,169,169) ;
+    font-size: 300%;
+    font-family: 'Cutive Mono', monospace;
+    /*border-bottom: 2px solid white;*/
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 0%;
+}
+#version{
+    text-align: center;
+    font-family: 'Cutive Mono', monospace;
+    color: rgb(43,45,47);
+
+}
+#details{
+    color:rgb(169,169,169) ;
+    font-family: 'Cutive Mono', monospace;
+    margin-top: 2em;
+    text-align: center;
+    font-size: 3.5em;
+    
+}
+.topics{
+    text-align: center;
+    font-family: 'Cutive Mono', monospace;
+    font-size: 150%;
+    color:rgb(169,169,169) ;
+    margin-top: 25%;
+
+}
+#aboutme{
+    font-family: 'Cutive Mono', monospace;
+    line-height: 40px;
+    color:rgb(169,169,169) ;
+    font-size: 120%;
+    text-align: center;
+    padding: 5px 2% 5px 2%;
+    margin-left: 3%;
+    margin-right: 3%;
+    
+    border-radius: 1%;
+}
+
+#particles-js{
+    height: 50vh;
+    
+    
+   
+    
+}
+
+
